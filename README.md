@@ -14,9 +14,8 @@ To practice real teamwork on GitHub by creating individual HTML profile pages in
 
 ## 🧩 Group Structure
 Each group will consist of 3 members:
-groupleader/
-teammate1/
-teammate2/
+groupleader/ Abdullah
+teammate1/ Aitzaaz Wajid
 Each member works only inside their assigned folder and creates a personal webpage named index.html.
 
 ---
