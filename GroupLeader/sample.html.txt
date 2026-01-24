@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rabia's Sample Page</title>
+</head>
+<body>
+  <h1>Welcome to Rabia's Web Page</h1>
+  <p>This is my contribution to the GitHub Fundamentals assignment.</p>
+</body>
+</html>
